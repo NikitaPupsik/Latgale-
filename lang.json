@@ -1,0 +1,66 @@
+{
+    "lv": {
+        "nav": {
+             "home": "Sākums",
+             "about": "Par Mums",
+            "services": "Pakalpojumi",
+             "contact": "Kontakti"
+},
+
+
+       "hero_title": "Laipni lūdzam BuildKon!",
+       "hero_desc": "Mēs būvējam nākotni ar izturīgām un inovatīvām konstrukcijām.",
+        
+        "achievements_title ": "Mūsu Sasniegumi",
+        "achievements_subtitle": "No pamatiem līdz panākumiem – šie skaitļi atspoguļo mūsu darba kvalitāti un klientu uzticību",
+        "achievements_projects": "Pabeigti Projekti",
+        "achievements_clients": "Apmierināti Klienti",
+        "achievements_years": "Gadu Pieredze",
+        "achievements_awards": "Balvas un Sertifikāti",
+
+         "footer_text": "© 2025 BuildKon. Visas tiesības aizsargātas."
+      
+    }, 
+    "en": {
+      "nav": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contact": "Contact"
+      },
+      "hero_title": "Welcome to BuildKon!",
+      "hero_desc": "We build the future with durable and innovative structures.",
+    
+"achievements_title": "© 2025 BuildKon. All rights reserved.",
+"achievements_subtitle": "© 2025 BuildKon. All rights reserved.",
+"achievements_projects": "Completed Projects",
+"achievements_clients": "Satisfied Clients",
+"achievements_years": "Years of Experience",
+"achievements_awards": "Awards & Certifications",
+
+
+        "footer_text": "© 2025 BuildKon. All rights reserved."
+    },
+    "ru": {
+      "nav": {
+        "home": "Главная",
+        "about": "О нас",
+        "services": "Услуги",
+        "contact": "Контакты"
+      },
+      "hero_title": "Добро пожаловать в BuildKon!",
+      "hero_desc": "Мы строим будущее с прочными и инновационными конструкциями.",
+
+"achievements_title": "© 2025 BuildKon. Все права защищены.",
+"achievements_subtitle": "© 2025 BuildKon. Все права защищены.",
+"achievements_projects": "Завершённые проекты",
+"achievements_clients": "Довольные клиенты",
+"achievements_years": "Лет опыта",
+"achievements_awards": "Награды и сертификаты",
+
+
+        "footer_text": "© 2025 BuildKon. Все права защищены."
+    }
+  }
+  
+      
